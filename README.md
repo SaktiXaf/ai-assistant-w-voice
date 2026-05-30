@@ -1,5 +1,4 @@
-#  AI
-Assistant
+#  AI Assistant
 
 Jarvis adalah MVP personal voice AI assistant desktop untuk Windows. Assistant bisa menerima perintah suara atau teks, memahami intent sederhana, menjalankan aksi komputer, memberi respons suara, dan mencatat log lokal.
 
