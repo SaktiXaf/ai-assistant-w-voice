@@ -1,0 +1,30 @@
+{
+  "youtube": {
+    "aliases": ["youtube", "yt"],
+    "url": "https://youtube.com",
+    "search_url": "https://www.youtube.com/results?search_query={query}"
+  },
+  "google": {
+    "aliases": ["google"],
+    "url": "https://google.com",
+    "search_url": "https://www.google.com/search?q={query}"
+  },
+  "github": {
+    "aliases": ["github", "git hub"],
+    "url": "https://github.com",
+    "search_url": "https://github.com/search?q={query}"
+  },
+  "chatgpt": {
+    "aliases": ["chatgpt", "chat gpt"],
+    "url": "https://chatgpt.com"
+  },
+  "gmail": {
+    "aliases": ["gmail", "email google", "mail"],
+    "url": "https://mail.google.com"
+  },
+  "spotify": {
+    "aliases": ["spotify", "open spotify"],
+    "url": "https://open.spotify.com",
+    "search_url": "https://open.spotify.com/search/{query}"
+  }
+}

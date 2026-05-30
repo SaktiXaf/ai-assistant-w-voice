@@ -1,0 +1,22 @@
+{
+  "chrome": {
+    "aliases": ["chrome", "google chrome", "browser"],
+    "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+  },
+  "vscode": {
+    "aliases": ["vs code", "vscode", "visual studio code", "code"],
+    "path": "%LOCALAPPDATA%\\Programs\\Microsoft VS Code\\Code.exe"
+  },
+  "notepad": {
+    "aliases": ["notepad", "catatan"],
+    "path": "notepad.exe"
+  },
+  "explorer": {
+    "aliases": ["file explorer", "explorer", "folder"],
+    "path": "explorer.exe"
+  },
+  "spotify": {
+    "aliases": ["spotify"],
+    "path": "%APPDATA%\\Spotify\\Spotify.exe"
+  }
+}
